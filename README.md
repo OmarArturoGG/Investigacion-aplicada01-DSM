@@ -5,7 +5,7 @@
 </p>
 
 Aplicación de lista de tareas desarrollada en **Kotlin** para Android 📱.  
-Proyecto de la asignatura **Investigación Aplicada 01**.
+Proyecto de la asignatura **DESARROLLO DE SOFTWARE PARA MÓVILES DSM441 **.
 
 ---
 
